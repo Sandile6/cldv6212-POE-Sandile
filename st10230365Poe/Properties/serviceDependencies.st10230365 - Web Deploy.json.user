@@ -1,0 +1,25 @@
+{
+  "dependencies": {},
+  "parameters": {
+    "st10230365.resourceGroupName": {
+      "Name": "st10230365.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "AZ-JHB-RSG-VCKNDW-ST10230365-TER"
+    },
+    "st10230365.subscriptionId": {
+      "Name": "st10230365.subscriptionId",
+      "Type": "subscription",
+      "Value": "e31273bf-0dae-4395-a8b5-33f801de7c65"
+    },
+    "st10230365.resourceGroupLocation": {
+      "Name": "st10230365.resourceGroupLocation",
+      "Type": null,
+      "Value": "southafricanorth"
+    },
+    "st10230365.resourceName": {
+      "Name": "st10230365.resourceName",
+      "Type": null,
+      "Value": "st10230365"
+    }
+  }
+}

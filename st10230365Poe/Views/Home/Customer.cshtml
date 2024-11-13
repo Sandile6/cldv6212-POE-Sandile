@@ -1,0 +1,45 @@
+﻿@model List<st10230365Poe.Models.Customer>
+
+<h2>Customer Profiles</h2>
+
+<!-- Table to display customers -->
+<table class="table">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Email</th>
+            <th>Address</th>
+            <th>Date Created</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model != null && Model.Any())
+        {
+            foreach (var customer in Model)
+            {
+                <tr>
+                    <td>@customer.Name</td>
+                    <td>@customer.Email</td>
+                    <td>@customer.Address</td>
+                    <td>@customer.DateCreated.ToString("g")</td>
+                </tr>
+            }
+        }
+        else
+        {
+            <tr>
+                <td colspan="4" class="text-center">No customers found.</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<!-- Form to add a new customer -->
+<h4>Add Customer</h4>
+<form asp-controller="Customer" asp-action="AddCustomer" method="post">
+    <h4>Add Customer</h4>
+    <input type="text" name="Name" placeholder="Name" required />
+    <input type="email" name="Email" placeholder="Email" required />
+    <input type="text" name="Address" placeholder="Address" required />
+    <button type="submit" class="btn btn-primary">Add Customer</button>
+</form>

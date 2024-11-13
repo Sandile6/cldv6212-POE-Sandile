@@ -1,0 +1,35 @@
+﻿@model List<st10230365Poe.Models.ImageModel>
+
+<h2>Uploaded Images</h2>
+@if (Model != null && Model.Any())
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Image Name</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var image in Model)
+            {
+                <tr>
+                    <td>@image.Name</td>
+                    <td>
+                        <a asp-action="DownloadImage" asp-route-id="@image.Id" class="btn btn-secondary">Download</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>No images found.</p>
+}
+
+<form asp-action="UploadImage" method="post" enctype="multipart/form-data">
+    <h4>Upload New Image</h4>
+    <input type="file" name="image" required />
+    <button type="submit" class="btn btn-primary">Upload Image</button>
+</form>

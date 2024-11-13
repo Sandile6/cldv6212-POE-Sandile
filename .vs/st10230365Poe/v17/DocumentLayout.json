@@ -1,0 +1,323 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sandi\\source\\repos\\st10230365Poe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF708AB3-404C-4396-8FFD-4E0E50709312}|st10230365Poe\\st10230365Poe.csproj|c:\\users\\sandi\\source\\repos\\st10230365poe\\st10230365poe\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF708AB3-404C-4396-8FFD-4E0E50709312}|st10230365Poe\\st10230365Poe.csproj|solutionrelative:st10230365poe\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF708AB3-404C-4396-8FFD-4E0E50709312}|st10230365Poe\\st10230365Poe.csproj|c:\\users\\sandi\\source\\repos\\st10230365poe\\st10230365poe\\views\\home\\customer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF708AB3-404C-4396-8FFD-4E0E50709312}|st10230365Poe\\st10230365Poe.csproj|solutionrelative:st10230365poe\\views\\home\\customer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF708AB3-404C-4396-8FFD-4E0E50709312}|st10230365Poe\\st10230365Poe.csproj|c:\\users\\sandi\\source\\repos\\st10230365poe\\st10230365poe\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF708AB3-404C-4396-8FFD-4E0E50709312}|st10230365Poe\\st10230365Poe.csproj|solutionrelative:st10230365poe\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF708AB3-404C-4396-8FFD-4E0E50709312}|st10230365Poe\\st10230365Poe.csproj|c:\\users\\sandi\\source\\repos\\st10230365poe\\st10230365poe\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF708AB3-404C-4396-8FFD-4E0E50709312}|st10230365Poe\\st10230365Poe.csproj|solutionrelative:st10230365poe\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF708AB3-404C-4396-8FFD-4E0E50709312}|st10230365Poe\\st10230365Poe.csproj|c:\\users\\sandi\\source\\repos\\st10230365poe\\st10230365poe\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AF708AB3-404C-4396-8FFD-4E0E50709312}|st10230365Poe\\st10230365Poe.csproj|solutionrelative:st10230365poe\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF708AB3-404C-4396-8FFD-4E0E50709312}|st10230365Poe\\st10230365Poe.csproj|c:\\users\\sandi\\source\\repos\\st10230365poe\\st10230365poe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF708AB3-404C-4396-8FFD-4E0E50709312}|st10230365Poe\\st10230365Poe.csproj|solutionrelative:st10230365poe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF708AB3-404C-4396-8FFD-4E0E50709312}|st10230365Poe\\st10230365Poe.csproj|c:\\users\\sandi\\source\\repos\\st10230365poe\\st10230365poe\\views\\home\\uploadimage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF708AB3-404C-4396-8FFD-4E0E50709312}|st10230365Poe\\st10230365Poe.csproj|solutionrelative:st10230365poe\\views\\home\\uploadimage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF708AB3-404C-4396-8FFD-4E0E50709312}|st10230365Poe\\st10230365Poe.csproj|c:\\users\\sandi\\source\\repos\\st10230365poe\\st10230365poe\\views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF708AB3-404C-4396-8FFD-4E0E50709312}|st10230365Poe\\st10230365Poe.csproj|solutionrelative:st10230365poe\\views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF708AB3-404C-4396-8FFD-4E0E50709312}|st10230365Poe\\st10230365Poe.csproj|c:\\users\\sandi\\source\\repos\\st10230365poe\\st10230365poe\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF708AB3-404C-4396-8FFD-4E0E50709312}|st10230365Poe\\st10230365Poe.csproj|solutionrelative:st10230365poe\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF708AB3-404C-4396-8FFD-4E0E50709312}|st10230365Poe\\st10230365Poe.csproj|c:\\users\\sandi\\source\\repos\\st10230365poe\\st10230365poe\\models\\userinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF708AB3-404C-4396-8FFD-4E0E50709312}|st10230365Poe\\st10230365Poe.csproj|solutionrelative:st10230365poe\\models\\userinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF708AB3-404C-4396-8FFD-4E0E50709312}|st10230365Poe\\st10230365Poe.csproj|c:\\users\\sandi\\source\\repos\\st10230365poe\\st10230365poe\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF708AB3-404C-4396-8FFD-4E0E50709312}|st10230365Poe\\st10230365Poe.csproj|solutionrelative:st10230365poe\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF708AB3-404C-4396-8FFD-4E0E50709312}|st10230365Poe\\st10230365Poe.csproj|c:\\users\\sandi\\source\\repos\\st10230365poe\\st10230365poe\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF708AB3-404C-4396-8FFD-4E0E50709312}|st10230365Poe\\st10230365Poe.csproj|solutionrelative:st10230365poe\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF708AB3-404C-4396-8FFD-4E0E50709312}|st10230365Poe\\st10230365Poe.csproj|c:\\users\\sandi\\source\\repos\\st10230365poe\\st10230365poe\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF708AB3-404C-4396-8FFD-4E0E50709312}|st10230365Poe\\st10230365Poe.csproj|solutionrelative:st10230365poe\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF708AB3-404C-4396-8FFD-4E0E50709312}|st10230365Poe\\st10230365Poe.csproj|c:\\users\\sandi\\source\\repos\\st10230365poe\\st10230365poe\\models\\imagemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF708AB3-404C-4396-8FFD-4E0E50709312}|st10230365Poe\\st10230365Poe.csproj|solutionrelative:st10230365poe\\models\\imagemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF708AB3-404C-4396-8FFD-4E0E50709312}|st10230365Poe\\st10230365Poe.csproj|c:\\users\\sandi\\source\\repos\\st10230365poe\\st10230365poe\\controllers\\imagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF708AB3-404C-4396-8FFD-4E0E50709312}|st10230365Poe\\st10230365Poe.csproj|solutionrelative:st10230365poe\\controllers\\imagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF708AB3-404C-4396-8FFD-4E0E50709312}|st10230365Poe\\st10230365Poe.csproj|c:\\users\\sandi\\source\\repos\\st10230365poe\\st10230365poe\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF708AB3-404C-4396-8FFD-4E0E50709312}|st10230365Poe\\st10230365Poe.csproj|solutionrelative:st10230365poe\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF708AB3-404C-4396-8FFD-4E0E50709312}|st10230365Poe\\st10230365Poe.csproj|c:\\users\\sandi\\source\\repos\\st10230365poe\\st10230365poe\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF708AB3-404C-4396-8FFD-4E0E50709312}|st10230365Poe\\st10230365Poe.csproj|solutionrelative:st10230365poe\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF708AB3-404C-4396-8FFD-4E0E50709312}|st10230365Poe\\st10230365Poe.csproj|c:\\users\\sandi\\source\\repos\\st10230365poe\\st10230365poe\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF708AB3-404C-4396-8FFD-4E0E50709312}|st10230365Poe\\st10230365Poe.csproj|solutionrelative:st10230365poe\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\sandi\\source\\repos\\st10230365Poe\\st10230365Poe\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "st10230365Poe\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\sandi\\source\\repos\\st10230365Poe\\st10230365Poe\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "st10230365Poe\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T13:10:54.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sandi\\source\\repos\\st10230365Poe\\st10230365Poe\\Program.cs",
+              "RelativeDocumentMoniker": "st10230365Poe\\Program.cs",
+              "ToolTip": "C:\\Users\\sandi\\source\\repos\\st10230365Poe\\st10230365Poe\\Program.cs",
+              "RelativeToolTip": "st10230365Poe\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACYAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T13:16:07.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sandi\\source\\repos\\st10230365Poe\\st10230365Poe\\appsettings.json",
+              "RelativeDocumentMoniker": "st10230365Poe\\appsettings.json",
+              "ToolTip": "C:\\Users\\sandi\\source\\repos\\st10230365Poe\\st10230365Poe\\appsettings.json",
+              "RelativeToolTip": "st10230365Poe\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-13T13:08:26.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\sandi\\source\\repos\\st10230365Poe\\st10230365Poe\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "st10230365Poe\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\sandi\\source\\repos\\st10230365Poe\\st10230365Poe\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "st10230365Poe\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T13:11:51.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\sandi\\source\\repos\\st10230365Poe\\st10230365Poe\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "st10230365Poe\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\sandi\\source\\repos\\st10230365Poe\\st10230365Poe\\Models\\Customer.cs",
+              "RelativeToolTip": "st10230365Poe\\Models\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T13:08:54.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Customer.cshtml",
+              "DocumentMoniker": "C:\\Users\\sandi\\source\\repos\\st10230365Poe\\st10230365Poe\\Views\\Home\\Customer.cshtml",
+              "RelativeDocumentMoniker": "st10230365Poe\\Views\\Home\\Customer.cshtml",
+              "ToolTip": "C:\\Users\\sandi\\source\\repos\\st10230365Poe\\st10230365Poe\\Views\\Home\\Customer.cshtml",
+              "RelativeToolTip": "st10230365Poe\\Views\\Home\\Customer.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAswCwAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-13T13:14:06.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UploadImage.cshtml",
+              "DocumentMoniker": "C:\\Users\\sandi\\source\\repos\\st10230365Poe\\st10230365Poe\\Views\\Home\\UploadImage.cshtml",
+              "RelativeDocumentMoniker": "st10230365Poe\\Views\\Home\\UploadImage.cshtml",
+              "ToolTip": "C:\\Users\\sandi\\source\\repos\\st10230365Poe\\st10230365Poe\\Views\\Home\\UploadImage.cshtml",
+              "RelativeToolTip": "st10230365Poe\\Views\\Home\\UploadImage.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-13T13:15:42.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\sandi\\source\\repos\\st10230365Poe\\st10230365Poe\\Views\\Home\\Register.cshtml",
+              "RelativeDocumentMoniker": "st10230365Poe\\Views\\Home\\Register.cshtml",
+              "ToolTip": "C:\\Users\\sandi\\source\\repos\\st10230365Poe\\st10230365Poe\\Views\\Home\\Register.cshtml",
+              "RelativeToolTip": "st10230365Poe\\Views\\Home\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-13T13:20:28.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\sandi\\source\\repos\\st10230365Poe\\st10230365Poe\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "st10230365Poe\\Views\\Home\\Login.cshtml",
+              "ToolTip": "C:\\Users\\sandi\\source\\repos\\st10230365Poe\\st10230365Poe\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "st10230365Poe\\Views\\Home\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-13T13:21:01.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserInput.cs",
+              "DocumentMoniker": "C:\\Users\\sandi\\source\\repos\\st10230365Poe\\st10230365Poe\\Models\\UserInput.cs",
+              "RelativeDocumentMoniker": "st10230365Poe\\Models\\UserInput.cs",
+              "ToolTip": "C:\\Users\\sandi\\source\\repos\\st10230365Poe\\st10230365Poe\\Models\\UserInput.cs",
+              "RelativeToolTip": "st10230365Poe\\Models\\UserInput.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T14:19:33.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\sandi\\source\\repos\\st10230365Poe\\st10230365Poe\\Models\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "st10230365Poe\\Models\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\sandi\\source\\repos\\st10230365Poe\\st10230365Poe\\Models\\RegisterViewModel.cs",
+              "RelativeToolTip": "st10230365Poe\\Models\\RegisterViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T13:17:48.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\sandi\\source\\repos\\st10230365Poe\\st10230365Poe\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "st10230365Poe\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\sandi\\source\\repos\\st10230365Poe\\st10230365Poe\\Models\\Order.cs",
+              "RelativeToolTip": "st10230365Poe\\Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T13:09:18.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\sandi\\source\\repos\\st10230365Poe\\st10230365Poe\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "st10230365Poe\\Models\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\sandi\\source\\repos\\st10230365Poe\\st10230365Poe\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "st10230365Poe\\Models\\LoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T13:18:44.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ImageModel.cs",
+              "DocumentMoniker": "C:\\Users\\sandi\\source\\repos\\st10230365Poe\\st10230365Poe\\Models\\ImageModel.cs",
+              "RelativeDocumentMoniker": "st10230365Poe\\Models\\ImageModel.cs",
+              "ToolTip": "C:\\Users\\sandi\\source\\repos\\st10230365Poe\\st10230365Poe\\Models\\ImageModel.cs",
+              "RelativeToolTip": "st10230365Poe\\Models\\ImageModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T13:09:39.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ImageController.cs",
+              "DocumentMoniker": "C:\\Users\\sandi\\source\\repos\\st10230365Poe\\st10230365Poe\\Controllers\\ImageController.cs",
+              "RelativeDocumentMoniker": "st10230365Poe\\Controllers\\ImageController.cs",
+              "ToolTip": "C:\\Users\\sandi\\source\\repos\\st10230365Poe\\st10230365Poe\\Controllers\\ImageController.cs",
+              "RelativeToolTip": "st10230365Poe\\Controllers\\ImageController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAADoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T13:12:53.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\sandi\\source\\repos\\st10230365Poe\\st10230365Poe\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "st10230365Poe\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\sandi\\source\\repos\\st10230365Poe\\st10230365Poe\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "st10230365Poe\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAiwDUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T13:41:38.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\sandi\\source\\repos\\st10230365Poe\\st10230365Poe\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "st10230365Poe\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\sandi\\source\\repos\\st10230365Poe\\st10230365Poe\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "st10230365Poe\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAAAFUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T13:19:18.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\sandi\\source\\repos\\st10230365Poe\\st10230365Poe\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "st10230365Poe\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\sandi\\source\\repos\\st10230365Poe\\st10230365Poe\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "st10230365Poe\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAB+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-13T13:46:51.105Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
